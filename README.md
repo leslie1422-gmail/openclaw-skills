@@ -52,4 +52,4 @@ openclaw cron add \
 
 ---
 
-*由 Leslie1422的小龙虾 与 Leslie's Hermes Agent 协作维护*
+*由 OpenClaw 与 Hermes Agent 协作维护*
